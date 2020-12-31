@@ -1,8 +1,20 @@
 # PCSX4
 Free PlayStation 4 Emulatörü
+# PCSX4 Hakkında 
+PCSX4, Windows için  C ++ ile yazılmış açık kaynaklı deneysel bir PS4 Emulator projesidir. PS4 oyunları oynamanıza izin veren ilk ve tek emülatör. Arka uç API oluşturucuları olarak OpenGL, Vulkan ve DirectX 12 kullanıyor ve PS4 münhasırlarının çoğunu, hala beta sürümünde olduğu gibi bazı aksaklıklarla üst düzey makinelerde çalıştırıyor. İndirme bölümünden alabileceğiniz sık sürümler olacaktır .
+
+# Hakkında 
+Yerel PS4 Emülasyonu
+PS4, x86_64 mimarisine dayalıdır, bu nedenle PCSX4, OGRE, Vulcan API ve Orbital donanım destekli sanallaştırmadan yararlanarak Windows sistemlerinde yerel olarak çalışır. PCSX4, görsel kaliteden ödün vermeden oyunları sorunsuz bir şekilde işler.
+
+Kilitsiz FPS
+Artık pek çok oyun 60 FPS ve ötesinde çalışabildiğinden, PS4 oyunlarını PCüzerinde değişken kare hızlarında ve pürüzsüz bir deneyimle oynayabilirsiniz. Vulkan desteğine sahip özel bir GPU'nuz varsa, iyi bir performans bekleyebilirsiniz.
+
+Çoklu Giriş Aygıtları
+PCSX4, çoklu giriş oyun cihazlarını destekler. Birinci şahıs nişancı oyunları için fare girişini bile kullanabilirsiniz. PS4 & XBOX-ONE denetleyicisinin PCSX4 üzerinde tak ve çalıştır desteği vardır.
 
 # Başlangıç
-PCSX4 Emulator is a PlayStation 4 Emulator
+PCSX4 Emulator is a PlayStation 4 
 
 # İndir
 Şu anda sadece Windows için destek vardır  https://github.com/SolveTube/PCSX4/releases/tag/1.09 buradan indirebilirsiniz.
@@ -48,4 +60,6 @@ PCSX4, en son DirectX çalışma zamanını gerektirir,  bu hatayı düzeltmek i
 # PCSX4  içinde PlayStation 4 oyunlarını oynama
 PCSX4 can run pirated games and original CD games. Piracy games will require .iso files. PCSX4 currently only supports games released exclusively for PlayStation 4.
 
+# Teşşekkür 
+PCSX4, bu PS4 Emulator projesine katkıda bulunan geliştiricilerimiz ve destekçilerimiz sayesinde birçok harika şey yapabilir. İyi öykünme performansını arşivlemek için hala uzun bir yoldayız ancak en iyi PlayStation 4 oyunlarını PC ve Mac'te oynanabilir hale getirmek için çok çalışıyoruz.
 
