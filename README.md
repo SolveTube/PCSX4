@@ -61,5 +61,19 @@ PCSX4, en son DirectX çalışma zamanını gerektirir,  bu hatayı düzeltmek i
 PCSX4 can run pirated games and original CD games. Piracy games will require .iso files. PCSX4 currently only supports games released exclusively for PlayStation 4.
 
 # Teşşekkür 
-PCSX4, bu PS4 Emulator projesine katkıda bulunan geliştiricilerimiz ve destekçilerimiz sayesinde birçok harika şey yapabilir. İyi öykünme performansını arşivlemek için hala uzun bir yoldayız ancak en iyi PlayStation 4 oyunlarını PC ve Mac'te oynanabilir hale getirmek için çok çalışıyoruz.
+PCSX4, bu PS4 Emulator projesine katkıda bulunan geliştiricilerimiz ve destekçilerimiz sayesinde birçok harika şey yapabilir. İyi öykünme performansını arşivlemek için hala uzun bir yoldayız ancak en iyi PlayStation 4 oyunlarını PC ve Mac'te oynanabilir hale getirmek için çok çalışıyoruz
+
+# Sorumluluk Reddi
+PCSX4 (PS4 Emulator) yasa dışı faaliyetler için yapılmamıştır ve korsanlıkla ilgili katı bir politikamız vardır. Tüm kaynaklar, yasal olarak sahip olunan cihazların, oyunların ve internette bulunan bilgilerin tersine mühendislik yoluyla elde edilir. Bu projenin temel amacı, oyun deneyimini geliştirmek, araştırmak ve cihaz öykünmesinin temel kavramları hakkında eğitim sağlamaktır.
+
+# SSS
+PCSX4 Nedir?
+PCSX4, PC'nizde  S4 oyunları oynamanıza olanak tanıyan, donanım destekli sanallaştırmaya dayalı bir beta PlayStation 4 ve PlayStation 4 Pro emülatör projesidir. PS4 konsolunuzun "oyun istasyonu cihaz tanımlayıcısını" ( PDIX ) ve orijinal PS4 oyunlarını almasını gerektirir . PCSX4 geliştirme, ilk olarak 2014'ün sonlarında kapalı kaynakla başlatıldı, ancak daha sonra geliştirmeyi desteklemek için yarı açık kaynağa geçti. Daha fazla bilgi için bu hızlı başlangıç ​​kılavuzunu izleyin .
+
+Pdix. Nedir?
+S4 oyunları oynamanıza olanak tanıyan, donanım destekli sanallaştırmaya dayalı bir beta PlayStation 4 ve PlayStation 4 Pro emülatör projesidir. PS4 konsolunuzun "oyun istasyonu cihaz tanımlayıcısını" ( PDIX ) ve orijinal PS4 oyunlarını almasını gerektirir . PCSX4 geliştirme, ilk olarak 2014'ün sonlarında kapalı kaynakla başlatıldı, ancak daha sonra geliştirmeyi desteklemek için yarı açık kaynağa geçti. Daha fazla bilgi için bu hızlı başlangıç ​​kılavuzunu izleyin . 
+
+Pdix. Nasıl Çıkarılır?
+PDIX'i çıkarmak  için  PS4 web tarayıcınızda https://pcsx4.com/extract-pdix adresine gidin  . PCSX4'ü indirdikten sonra PCSX4'ün dosya konumuna .pdix adlı bir klasör açın  pdix'i PlayStation 4'te çıkarabilirsiniz fakat manuel olarakda döküm yapmak için https://github.com/pcsx4emudev/pdix-dumper buraya göz gezdirin.
+
 
