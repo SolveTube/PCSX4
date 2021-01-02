@@ -93,6 +93,14 @@ PC'de kusursuz bir şekilde işliyor ancak 4k çözünürlükte oynamak istiyors
 Performans testlerimizde, bu oyunun doku kalitesinden bazı ödünler veren düşük kaliteli oyun bilgisayarlarında çok iyi çalıştığını gördük . 
 Çekirdek GS motoru dinamik yük dengeleme planlamasını kullandığından, GTX 1070'in üzerindeki herhangi bir şey, çerçeveleri atlamadan / düşürmeden bir performans artışı elde edecektir. AMD ve Pascal için Polaris veya sonraki bir sürümüne veya Nvidia'nın LBS'yi desteklemesi için daha sonrasına ihtiyacınız olacak, aksi takdirde bazı kare atlama deneyimleri yapacaksınız. Eski GPU'larda çerçeve atlamayı devre dışı bırakabilirsiniz, ancak 1080p'nin üzerindeki herhangi bir şeyde çözünürlük düşüşüne neden olur.
 
+# Spider-Man: Miles Morales (Marvel's Spider-Man: Miles Morales) Artık PCSX4 İle PC'de Çalışır. 
+Miles Morales artık 4K desteği ile PCSX4'e çalışacak RTX 3090'da denediğimizde 100 FPS aldık normal şartlar altında doku kalitesi 8 GB ram'de en düşük olarak oynanabilir. Daha önemlisi Miles Morales demediğimiz 650 cihazdan 580 tanesinde 60 FPS ve üstü bir performans verdi. 
+
+# The Last Of Us Part II Sonunda PCSX4 İle Bilgisayarlarda Çalışıyor 
+Yaptığımız değişikler ile 2020 yılının en iyi oyunlarından olan TLOU2 artık PCSX4 İle PC'de çalışıyor oyun 154 GB GİBİ büyük bir boyuta sahip olup çoğu sistemde kasıp çalışmayacaktır doku kalitesinde en düşük oranda 12 GB Ram'de oynayabilirsiniz. 
+
+# Cyberpunk 2077 Artık Sadece RTX 3090 MSİ'de PCSX4 İle çalışacak. 
+CP2077 çok sorunlu bir oyun olarak 2020 yılında çıkışını yaptı. Bunun haricinde PlayStation 4 kullanıcıları oyun oynarken FPS düşüşleri ile karşı karşıya kaldılar. PCSX4 Cyberpunk 2077' yi destekliyor fakat sadece RTX 3090 MSİ'da çalışacak diğer sistemlerde ise çalışmayacak RTX 3090'da MSİ'de bile Cyberpunk 2077 60 FPS' ye zor çıkıyor. 
 # Uyumluluk
 Bu sayfa hem PC hem de Mac'teki oyunların PCSX4 ile uyumluluk durumunu gösterir. Lütfen bu oyunların uyumluluk durumunun kullanıcılar tarafından gönderilen günlüklere / verilere dayandığını ve listenin bu emülatör tarafından desteklenen tüm oyunları içermediğini, çünkü her oyunu test edemeyeceğimizi unutmayın. Kullanıcılar , listeyi güncel tutmak için oyunların uyumluluk durumunu buraya gönderebilir . Oyun performansı, farklı grafik API'leri nedeniyle Windows ve macOS arasında da farklılık gösterebilir, ancak uyumluluk her iki işletim sisteminde de aynı kalır.
 
