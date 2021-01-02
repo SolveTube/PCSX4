@@ -76,6 +76,23 @@ S4 oyunları oynamanıza olanak tanıyan, donanım destekli sanallaştırmaya da
 Pdix. Nasıl Çıkarılır?
 PDIX'i çıkarmak  için  PS4 web tarayıcınızda https://pcsx4.com/extract-pdix adresine gidin  . PCSX4'ü indirdikten sonra PCSX4'ün dosya konumuna .pdix adlı bir klasör açın  pdix'i PlayStation 4'te çıkarabilirsiniz fakat manuel olarakda döküm yapmak için https://github.com/pcsx4emudev/pdix-dumper buraya göz gezdirin.
 
+# Red Dead Redemption 2 PC - PS4 Emulator ile şimdi oynayın
+Red Dead Redemption 2 bilgisayarının PCSX4 - PS4 Emulator tarafından tamamen desteklendiğini bilmekten mutluluk duyacaksınız. Bu oyunun keyfini PC'de 4k desteği ve kilidi açılmış FPS ile çıkarabilirsiniz. Oyun PC'de kusursuz bir şekilde işliyor 
+
+# Spider-Man (2018), PS4 Emulator ile PC'de çalışır
+Bu AAA Playstation 4'e özel, iyi kare hızı ve grafiklerle PC'de tamamen oynanabilir olduğunu bilmekten mutluluk duyacaksınız. Bu oyunu 4k çözünürlükte çalıştırırken iyi bir performans bekleyebilirsiniz.
+
+# Bloodborne artık PS4 Emulator ile PC'de tamamen destekleniyor
+Bloodborne PC İlerlemesi: Bloodborne'un artık PCSX4 tarafından tam olarak desteklendiğini duyurmaktan mutluluk duyuyoruz, ancak menü öğelerinin görüntülendiği alanlarda birkaç sorun olsa da, gerçek oyunda büyük bir sorun yok.
+
+# PC ve kıyaslama üzerinde çalışan God Of War 4 (2018) 
+Artık PC'de God Of War 4 (2018) oynayabilirsiniz. PCSX4'ün en son sürümü yeni GOW'u desteklemektedir. Bu oyunu 4k gibi yüksek çözünürlüklerde işlemek, güzel olsa da, donanımınız için oldukça zorlayıcıdır
+
+# RDR2
+PC'de kusursuz bir şekilde işliyor ancak 4k çözünürlükte oynamak istiyorsanız iyi bir GPU gerektirir . Oyun, güçlü bir CPU gerektiren eşzamansız gölgelendirici işleme algoritması kullandığından, CPU saat hızınız 3,4 GHz'in altındaysa düşen kareler yaşayabilirsiniz.
+Performans testlerimizde, bu oyunun doku kalitesinden bazı ödünler veren düşük kaliteli oyun bilgisayarlarında çok iyi çalıştığını gördük . 
+Çekirdek GS motoru dinamik yük dengeleme planlamasını kullandığından, GTX 1070'in üzerindeki herhangi bir şey, çerçeveleri atlamadan / düşürmeden bir performans artışı elde edecektir. AMD ve Pascal için Polaris veya sonraki bir sürümüne veya Nvidia'nın LBS'yi desteklemesi için daha sonrasına ihtiyacınız olacak, aksi takdirde bazı kare atlama deneyimleri yapacaksınız. Eski GPU'larda çerçeve atlamayı devre dışı bırakabilirsiniz, ancak 1080p'nin üzerindeki herhangi bir şeyde çözünürlük düşüşüne neden olur.
+
 # Uyumluluk
 Bu sayfa hem PC hem de Mac'teki oyunların PCSX4 ile uyumluluk durumunu gösterir. Lütfen bu oyunların uyumluluk durumunun kullanıcılar tarafından gönderilen günlüklere / verilere dayandığını ve listenin bu emülatör tarafından desteklenen tüm oyunları içermediğini, çünkü her oyunu test edemeyeceğimizi unutmayın. Kullanıcılar , listeyi güncel tutmak için oyunların uyumluluk durumunu buraya gönderebilir . Oyun performansı, farklı grafik API'leri nedeniyle Windows ve macOS arasında da farklılık gösterebilir, ancak uyumluluk her iki işletim sisteminde de aynı kalır.
 
